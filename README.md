@@ -5,6 +5,7 @@ primeiro projeto
 git add.
 git commit "texto commit"
 git push
+git pull
 ```
 
 
