@@ -1,7 +1,11 @@
 # poc-gitflow-fausto-GJS
 primeiro projeto
 
-
+```sh
+git add.
+git commit "texto commit"
+git push
+```
 
 
 **negrito**
